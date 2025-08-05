@@ -14,6 +14,7 @@ Create a console-based CRUD (Create, Read, Update, Delete) system to manage stud
 ```
 student-record-system/
 │
+├──Student.java    // Student class with attributes and methods
 ├── StudentManagementSystem.java   // Main Java file with all logic
 └── README.md                      // Project documentation
 ```
@@ -69,6 +70,9 @@ Student Records:
 ID: 101, Name: Alice, Marks: 89.5
 ```
 
+## 💡 Screenshot
+
+![Screenshot](https://github.com/yourusername/StudentManagementSystem/blob/main/screenshot.png)
 ## 📌 Notes
 
 - Student records are stored in-memory using an `ArrayList`.
