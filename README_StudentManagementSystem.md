@@ -72,7 +72,7 @@ ID: 101, Name: Alice, Marks: 89.5
 
 ## 💡 Screenshot
 
-![Screenshot](screensort/Screenshot 2025-08-05 153256.png)
+![Screenshot](https://github.com/RAMAKRISHNA3488/Task-2-Student-Record-Management-System/blob/master/screensort/Screenshot%202025-08-05%20153256.png)
 ## 📌 Notes
 
 - Student records are stored in-memory using an `ArrayList`.
